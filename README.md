@@ -3,7 +3,7 @@
 I'm a statistics student who pursuing data science and programming. 
 
 - 🧑‍🎓 I’m currently an undergraduate student at [Gadjah Mada University](https://ugm.ac.id/id/).
-- 💻 Interested in data analysis and visualization, Web developer, and machine learning.
+- 💻 Interested in data analysis and visualization, Web developer, machine learning, and Generative AI.
 - 🌱 Practicing R, Python, and JavaScript.
 - 📧 Feel free to contact me regarding anything
 
